@@ -77,5 +77,6 @@ To launch the EC2 instance, follow these steps:
 
 #### Result
 
-After executing the above commands, the EC2 instance is successfully launched and running in AWS. If necessary, I can provide screenshots to illustrate the setup.
+After executing the above commands, the EC2 instance is successfully launched and running in AWS.
 
+![EC2 Instance Status](web-app-infra-terraform/photos/terraform%20vm.JPG)
