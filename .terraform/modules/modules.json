@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"ec2","Source":"./modules/ec2","Dir":"modules/ec2"},{"Key":"ec2.ec2","Source":"./modules/ec2","Dir":""},{"Key":"security_group","Source":"./modules/security_group","Dir":"modules/security_group"},{"Key":"vpc","Source":"./modules/vpc","Dir":"modules/vpc"}]}
