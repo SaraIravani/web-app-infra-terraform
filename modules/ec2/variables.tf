@@ -19,3 +19,7 @@ variable "subnet_id" {
   type        = string
 }
 
+variable "environment" {
+  description = "The environment to deploy to (dev, staging, production)"
+  type        = string
+}

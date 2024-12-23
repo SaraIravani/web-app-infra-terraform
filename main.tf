@@ -26,3 +26,4 @@ module "ec2" {
   security_group_id  = module.security_group.web_server_security_group_id
   subnet_id          = var.subnet_id  
 }
+

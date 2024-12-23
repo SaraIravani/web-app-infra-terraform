@@ -29,5 +29,11 @@ variable "allowed_ssh_cidr" {
   type        = string
   default     = "0.0.0.0/0"
 }
+variable "environment" {
+  description = "The environment to deploy to (dev, staging, production)"
+  type        = string
+}
 
-
+locals {
+  environment = terraform.workspace
+}
